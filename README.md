@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://ant.design">
     <img width="200" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
+    <h1 align="center">Ant Design</h1>
   </a>
 </p>
 
@@ -22,7 +23,9 @@ An enterprise-class UI design language and React UI library.
 [github-action-url]: https://github.com/ant-design/ant-design/actions?query=workflow%3A%22%E2%9C%85+test%22
 [codecov-image]: https://img.shields.io/codecov/c/github/ant-design/ant-design/master.svg?style=flat-square
 [codecov-url]: https://codecov.io/gh/ant-design/ant-design/branch/master
-[download-image]: https://img.shields.io/npm/dm/antd.svg?style=flat-square
+<h1 align="center">Ant Design</h1>
+<h1 align="center">Ant Design</h1>
+<h1 align="center">Ant Design</h1>
 [download-url]: https://npmjs.org/package/antd
 [lgtm-image]: https://flat.badgen.net/lgtm/alerts/g/ant-design/ant-design
 [lgtm-url]: https://lgtm.com/projects/g/ant-design/ant-design/alerts/
@@ -82,7 +85,7 @@ yarn add antd
 
 ```jsx
 import { Button, DatePicker } from 'antd';
-
+<h1 align="center">Ant Design</h1>
 const App = () => (
   <>
     <Button type="primary">PRESS ME</Button>
@@ -105,9 +108,9 @@ import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 
 Dozens of languages supported in `antd`, see [i18n](https://ant.design/docs/react/i18n).
 
-## 🔗 Links
-
-- [Home page](https://ant.design/)
+## 🔗 Linksa
+<h1 align="center">Ant Design</h1>
+- [Home page](https://ant.design/)a
 - [Components Overview](https://ant.design/components/overview)
 - [Ant Design Pro](http://pro.ant.design/)
 - [Change Log](CHANGELOG.en-US.md)
